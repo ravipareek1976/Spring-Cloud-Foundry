@@ -1,15 +1,15 @@
-# Spring-Cloud-Foundry+ Maven
+Spring Boot+ Maven/Gardle/Jar  to App Engine in GCP
 How to deploy Spring boot application in 
 
-wiht Maven
+wiht Maven : did not work successfully yet
 https://www.youtube.com/watch?v=0zJUK-SwPqQ
-with gralde 
+
+
+with gralde : did not work successfully yet 
 https://www.youtube.com/watch?v=PN4NLSpAJWc
 
+Directly Pushing JAR File in to GCP AppEngine : gcloud app deploy gcpapp-0.0.1-SNAPSHOT.jar
+https://www.youtube.com/watch?v=qx_T6-EKkBE
 tried both videod but for both it was stuck probmting same error, at last stage error reported. Not successfull deployment at GCP
 
 
-
-* What went wrong:
-Execution failed for task ':appengineDeploy'.
-> com.google.cloud.tools.appengine.AppEngineException: com.google.cloud.tools.appengine.operations.cloudsdk.process.ProcessHandlerException: com.google.cloud.tools.appengine.AppEngineException: Non zero exit: 1
