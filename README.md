@@ -4,6 +4,8 @@ How to deploy Spring boot application in
 wiht Maven : did not work successfully yet
 https://www.youtube.com/watch?v=0zJUK-SwPqQ
 
+MAven 
+https://www.youtube.com/watch?v=1TqIL7RLrx4&t=301s  // it did not work with plugin command , but when i deployed same JAR it worked fine
 
 with gralde : did not work successfully yet 
 https://www.youtube.com/watch?v=PN4NLSpAJWc
